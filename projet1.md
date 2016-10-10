@@ -1,4 +1,3 @@
-Commande ECHO activ‚e
- 1 Des chose importantes 
+1 Des chose importantes 
 
-
+2 ligne 2
